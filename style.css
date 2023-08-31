@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.img {
+    padding-top: 20rem;
+    padding-bottom: 23rem;
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(138, 138, 236);
+    background-image: url("https://wallpapers.com/images/featured/space-sjryfre8k8f6i3ge.jpg");
+}
+
+
+.white-place{
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(138, 138, 236);
+}
